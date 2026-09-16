@@ -13,6 +13,7 @@ This deployment processes continuous firewall transaction entries to isolate ano
 3. **Geo-Location & Inbound Risk Analysis**: Structures network traffic metadata into grouped analytics ready for real-time dashboard visualization.
 
 ---
+<img width="1440" height="900" alt="Screen Shot 2026-09-15 at 8 24 21 PM" src="https://github.com/user-attachments/assets/2a9f4f90-116b-4cf6-84e2-65e895ffb3b3" />
 
 ## 💻 Core SPL Analysis Framework
 
